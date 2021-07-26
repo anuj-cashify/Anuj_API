@@ -1,0 +1,4 @@
+{
+  "env": "prod",
+  "casUrl": "http://cas.api.stage.cashify.in/v1/oauth/token?grant_type=implicit&client_id=cashify&client_version=v1"
+}
